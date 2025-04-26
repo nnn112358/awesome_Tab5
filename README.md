@@ -1,4 +1,4 @@
-# awesome_Tab5
+# awesome_M5Stack Tab5
 
 https://docs.m5stack.com/en/core/Tab5<br>
 回路図：https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1132/C145_Schematic_Core.pdf<br>
