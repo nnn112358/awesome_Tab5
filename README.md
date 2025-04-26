@@ -4,6 +4,9 @@ https://docs.m5stack.com/en/core/Tab5<br>
 回路図：https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1132/C145_Schematic_Core.pdf<br>
 ESP32-P4 Datasheet：https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1132/ESP32-P4_Datasheet.pdf<br>
 
+技適；219-259093/　https://giteki.lang-ship.com/219-259093<br>
+
+
 # 翻訳
 
 Tab5は、開発者指向の高い拡張性を持つポータブルIoTターミナル開発プラットフォームで、デュアルSoCアーキテクチャと豊富なハードウェアリソースを統合しています。主なコントローラーはRISC-VベースのESP32-P4 SoC（デュアルコア/シングルコア切替可能、最大240 MHz）で、16 MBフラッシュメモリと32 MB PSRAMを搭載しています。無線接続はデュアルアンテナのESP32-C6-MINI-1Uモジュールが担当し、Wi-Fi 6（802.11ax、2.4 GHz/5 GHz、最大20 dBm）とBluetooth 5.2をサポートして、高スループットと低遅延を確保します。
