@@ -6,6 +6,8 @@ ESP32-P4 Datasheet：https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1132/ESP32
 
 技適；219-259093/　https://giteki.lang-ship.com/219-259093<br>
 
+M5のTab5でplatformIOからM5GFX使うやりかた:https://gist.github.com/ogawa3427/f325be6f6a3061a3a39914ef0a32dedd
+
 
 # 翻訳
 
