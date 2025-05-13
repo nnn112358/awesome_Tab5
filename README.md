@@ -39,9 +39,9 @@ https://x.com/lovyan03/status/1922263342413959502<br>
 https://zenn.dev/kcat/articles/e54df783a77fca<br>
 
 
-## nnn
+@ nnn<br>
 https://github.com/nnn112358/Tab5_Display_SpeedTest<br>
 
-## anoken
+@ anoken<br>
 https://github.com/anoken/pong-wars-for-Tab5<br>
 
