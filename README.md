@@ -49,17 +49,16 @@ https://github.com/mongonta0716/M5Stack_Avatar_test/tree/main<br>
 @GOB52/M5StackTab5-quake<br>
 https://github.com/GOB52/M5StackTab5-quake<br>
 
-@lovyan03/Tab5で描画速度について<br>
-https://x.com/lovyan03/status/1922263342413959502<br>
 
 @kCat/PlatformIOでM5Tab5の環境構築<br>
 https://zenn.dev/kcat/articles/e54df783a77fca<br>
 
+@lovyan03/Tab5で描画速度について<br>
+https://x.com/lovyan03/status/1922263342413959502<br>
 
-
-@ nnn<br>
+@ nnn/Tab5_Display_SpeedTest<br>
 https://github.com/nnn112358/Tab5_Display_SpeedTest<br>
 
-@ anoken<br>
+@ anoken/pong-wars-for-Tab5<br>
 https://github.com/anoken/pong-wars-for-Tab5<br>
 
