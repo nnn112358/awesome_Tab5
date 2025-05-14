@@ -15,6 +15,13 @@ https://giteki.lang-ship.com/219-259093<br>
 https://github.com/m5stack/M5Tab5-UserDemo<br>
 https://deepwiki.com/m5stack/M5Tab5-UserDemo<br>
 
+## ESP32P4
+
+@espressoif/ESP32-P4-Function-EV-Board<br>
+https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32p4/esp32-p4-function-ev-board/user_guide.html#getting-started<br>
+
+
+
 ## users
 
 @Ogawa3427/ M5のTab5でplatformIOからM5GFX使うやりかた <br>
@@ -38,10 +45,6 @@ https://x.com/lovyan03/status/1922263342413959502<br>
 @kCat/PlatformIOでM5Tab5の環境構築<br>
 https://zenn.dev/kcat/articles/e54df783a77fca<br>
 
-## ESP32P4
-
-@espressoif/ESP32-P4-Function-EV-Board<br>
-https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32p4/esp32-p4-function-ev-board/user_guide.html#getting-started<br>
 
 
 @ nnn<br>
