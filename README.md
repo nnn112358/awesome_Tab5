@@ -20,7 +20,14 @@ https://deepwiki.com/m5stack/M5Tab5-UserDemo<br>
 @espressoif/ESP32-P4-Function-EV-Board<br>
 https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32p4/esp32-p4-function-ev-board/user_guide.html#getting-started<br>
 
+@wokwi/esp32p4-hello-world<br>
+https://github.com/wokwi/esp32p4-hello-world/tree/main<br>
 
+@espressif/esp-webrtc-solution<br>
+https://github.com/espressif/esp-webrtc-solution<br>
+
+@espressif/esp-dl<br>
+https://github.com/espressif/esp-dl<br>
 
 ## users
 
