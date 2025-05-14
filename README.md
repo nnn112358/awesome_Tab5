@@ -32,9 +32,8 @@ https://github.com/espressif/esp-dl<br>
 @espressif/esp32-quake<br>
 https://github.com/espressif/esp32-quake<br>
 
-@platformio/platform-espressif32
-https://github.com/platformio/platform-espressif32
-->
+@platformio/platform-espressif32<br>
+https://github.com/platformio/platform-espressif32<br>
 
 ## users
 
