@@ -32,6 +32,10 @@ https://github.com/espressif/esp-dl<br>
 @espressif/esp32-quake<br>
 https://github.com/espressif/esp32-quake<br>
 
+@platformio/platform-espressif32
+https://github.com/platformio/platform-espressif32
+->
+
 ## users
 
 @Ogawa3427/ M5のTab5でplatformIOからM5GFX使うやりかた <br>
