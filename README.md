@@ -29,6 +29,9 @@ https://github.com/espressif/esp-webrtc-solution<br>
 @espressif/esp-dl<br>
 https://github.com/espressif/esp-dl<br>
 
+@espressif/esp32-quake<br>
+https://github.com/espressif/esp32-quake<br>
+
 ## users
 
 @Ogawa3427/ M5のTab5でplatformIOからM5GFX使うやりかた <br>
