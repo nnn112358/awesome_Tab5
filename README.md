@@ -15,6 +15,9 @@ https://giteki.lang-ship.com/219-259093<br>
 https://github.com/m5stack/M5Tab5-UserDemo<br>
 https://deepwiki.com/m5stack/M5Tab5-UserDemo<br>
 
+ * Tab5 Restore Factory Firmware
+ https://docs.m5stack.com/ja/guide/restore_factory/m5tab5
+
 ## ESP32P4
 
 @espressoif/ESP32-P4-Function-EV-Board<br>
