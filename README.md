@@ -67,6 +67,8 @@ https://github.com/mongonta0716/M5Stack_Avatar_test/tree/main<br>
 @GOB52/M5StackTab5-quake<br>
 https://github.com/GOB52/M5StackTab5-quake<br>
 
+@hiroki_cockatoo/M5Stack Tab5でHDMIキャプチャ描画(MS2109のHDMIキャプチャ)
+https://x.com/hiroki_cockatoo/status/1924085849848987964
 
 @kCat/PlatformIOでM5Tab5の環境構築<br>
 https://zenn.dev/kcat/articles/e54df783a77fca<br>
