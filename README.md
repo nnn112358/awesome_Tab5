@@ -69,6 +69,7 @@ https://github.com/GOB52/M5StackTab5-quake<br>
 
 @hiroki_cockatoo/M5Stack Tab5でHDMIキャプチャ描画(MS2109のHDMIキャプチャ)
 https://x.com/hiroki_cockatoo/status/1924085849848987964
+https://github.com/espressif/esp-usb/tree/master/host/class/uvc/usb_host_uvc/examples
 
 @kCat/PlatformIOでM5Tab5の環境構築<br>
 https://zenn.dev/kcat/articles/e54df783a77fca<br>
