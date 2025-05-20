@@ -41,6 +41,15 @@ https://github.com/platformio/platform-espressif32<br>
 @espressif/esp-video-components/<br>
 https://github.com/espressif/esp-video-components/<br>
 
+
+## Lovyan03-san
+
+@lovyan03/Tab5で描画速度について<br>
+https://x.com/lovyan03/status/1922263342413959502<br>
+
+●ESP32P4+ESP-IDFでTab5の画面が出ない件の対策<br>
+https://x.com/lovyan03/status/1924399005091705203<br>
+
 ## users
 
 @Ogawa3427/ M5のTab5でplatformIOからM5GFX使うやりかた <br>
@@ -62,8 +71,7 @@ https://github.com/GOB52/M5StackTab5-quake<br>
 @kCat/PlatformIOでM5Tab5の環境構築<br>
 https://zenn.dev/kcat/articles/e54df783a77fca<br>
 
-@lovyan03/Tab5で描画速度について<br>
-https://x.com/lovyan03/status/1922263342413959502<br>
+
 
 @ nnn/Tab5_Display_SpeedTest<br>
 https://github.com/nnn112358/Tab5_Display_SpeedTest<br>
